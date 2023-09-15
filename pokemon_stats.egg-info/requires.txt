@@ -1,7 +1,0 @@
-unittest
-pandas
-sqlalchemy
-requests
-concurrent
-functools
-cProfile
